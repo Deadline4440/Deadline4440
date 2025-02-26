@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me ...
-- 😄 Pronouns: kapoor 
+- 😄 Pronouns: Kapoor Prajapati
 - ⚡ Fun fact: ...
 
 <!---
